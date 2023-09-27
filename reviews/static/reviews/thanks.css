@@ -1,0 +1,20 @@
+/* Reset some default browser styles */
+body, h1 {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a background color and text color for the body */
+body {
+    background-color: #f0f0f0; /* You can choose any color you like */
+    font-family: Arial, sans-serif; /* Choose an appropriate font */
+    text-align: center;
+    padding: 20px; /* Add some padding to the body */
+}
+
+/* Style the heading */
+h1 {
+    color: #333; /* Choose a suitable text color */
+    font-size: 36px; /* Choose a suitable font size */
+    margin-top: 20px; /* Add some spacing above the heading */
+}
